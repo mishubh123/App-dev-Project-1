@@ -28,3 +28,18 @@
     font-size: 16px;
     text-align: justify;
 }
+
+.center{
+    text-align: center;
+    margin: auto;
+    color: rgb(5,5, 100);
+}
+
+.outer_box{
+
+    border: 1px solid orange;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
