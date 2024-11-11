@@ -43,3 +43,9 @@
     padding: 10px;
     border-radius: 10px;
 }
+
+.err_msg{
+    text-align: center;
+    margin: auto;
+    color: maroon;
+}
